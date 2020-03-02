@@ -1,0 +1,3 @@
+In the program I am computing the position of car using its speed, acceleration, 
+and yellow light duration, Furthermore I compare the position to Dsitance from the
+traffic light plus the width of the road and print if the car should stop or accelerate. 
